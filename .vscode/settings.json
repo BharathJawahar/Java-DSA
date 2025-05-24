@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorStyle": "line",
+    "editor.tabCompletion": "on",
+    "editor.detectIndentation": true,
+    "editor.indentSize": "tabSize",
+    "terminal.integrated.tabs.defaultColor": null
+}
